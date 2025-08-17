@@ -1,0 +1,4 @@
+body { background-color: #1d2630; color: #fff; }
+.card { background: #223041; border: 1px solid #2e3b4c; }
+.table thead th { background:#192430; color:#aad1ff; }
+.btn-outline-light { --bs-btn-hover-bg: #fff; --bs-btn-hover-color: #000; }
